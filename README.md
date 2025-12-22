@@ -9,7 +9,7 @@
     <a href="mailto:amanyadav130904@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="#">
+    <a href="https://drive.google.com/file/d/19H_gZDGwQ4q9adZqHycr1x39hKmxLjYF/view?usp=sharing">
       <img src="https://img.shields.io/badge/Resume-View_PDF-000000?style=for-the-badge&logo=pdf&logoColor=white" alt="Resume"/>
     </a>
   </p>
