@@ -1,28 +1,70 @@
-<h1>Hi 👋, I'm  Aman yadav</h1>
-<p>A passionate Software developer </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/amanyadav207" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amanyadav207&show_icons=true&locale=en" alt="Amanyadav207" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyadav207&" alt="Amanyadav207" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanyadav207&show_icons=true&locale=en&layout=compact" alt="Amanyadav207" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amanyadav207" alt="Amanyadav207" /></a></p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR5aGR4a24wYXV4Y2V5OWh5ZDJ4a24wYXV4Y2V5OWh5ZDJ4a24wYXV4Y2V5OWh5ZDJ4a24wYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVXR2EfiA/giphy.gif" width="100"/>
+  <h1>Hi there, I'm <a href="https://www.linkedin.com/in/amanyadav207">Aman Yadav</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  
+  <p><em>Passionate Software Developer | Tech Enthusiast | Lifelong Learner</em></p>
+
+  <p>
+  <a href="https://www.linkedin.com/in/amanyadav207"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  </p>
+
+  <br>
+
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" width="100%" />
+
+</div>
+
+---
+
+### 🧐 About Me
+
+- 🔭 I’m currently working on **Full Stack Development**
+- 🌱 I’m currently learning **Advanced Microservices & Cloud Architecture**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Java, JavaScript, React, Spring Boot**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/amanyadav207)**
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+
+| **Frontend** | **Backend** | **Tools & DevOps** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs" width="300" /> | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,go" width="300" /> | <img src="https://skillicons.dev/icons?i=git,docker,mysql,mongodb,linux,figma" width="300" /> |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Amanyadav207">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanyadav207&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanyadav207&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/Amanyadav207">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanyadav207&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Amanyadav207&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/Amanyadav207/Amanyadav207/blob/main/github-contribution-grid-snake.svg" />
+</div>
